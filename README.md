@@ -1,3 +1,3 @@
 # navigation-menu-animations
 
-Web page coded mostly in HTML - embeded styling classes from Tailwinds with basic animation.
+Web page smaple - embeded styling classes from Tailwinds with basic animation.
